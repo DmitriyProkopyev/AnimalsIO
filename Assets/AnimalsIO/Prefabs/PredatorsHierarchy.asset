@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c4e77eec9f64043931df8637c3558f, type: 3}
+  m_Name: PredatorsHierarchy
+  m_EditorClassIdentifier: 
+  _cells:
+  - _prefab: {fileID: 6658933925766570157, guid: d0b0d5b4100e10148bda8edd379e8358, type: 3}
+    _maxCount: 10
+  - _prefab: {fileID: 2481472588981870023, guid: 1cd1b8df3fa58eb409814fed7b3f1585, type: 3}
+    _maxCount: 20
+  - _prefab: {fileID: 8193562019461874891, guid: 35bb1f2e7547d8143b04a4f68d1327c1, type: 3}
+    _maxCount: 30
+  - _prefab: {fileID: 3633493123387793924, guid: 7229532f5a42d084786c5c5ebc59aafc, type: 3}
+    _maxCount: 40
+  - _prefab: {fileID: 8688793894684759455, guid: 82b50901d81781a4da3753f1abeb5ac0, type: 3}
+    _maxCount: 50
+  - _prefab: {fileID: 1538542495451821153, guid: bf855326605798947b84fd0d7c9ee629, type: 3}
+    _maxCount: 60
+  - _prefab: {fileID: 5218168427468039837, guid: 09c0467293a961b4588d5e9b79bae19a, type: 3}
+    _maxCount: 70
+  _maxUnits: 16
